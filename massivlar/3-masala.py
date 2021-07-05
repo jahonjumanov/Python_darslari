@@ -1,4 +1,4 @@
 # remove -> beilgan elementni nomi bo'yicha o'chirish
 mashina=["BMW", "Arlando","Xunday","Mers","BMW"]
 mashina1=mashina.count("BMW")
-print(mashina1)
+for i in mashina1:
