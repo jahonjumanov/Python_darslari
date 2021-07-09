@@ -6,7 +6,7 @@ shaxs = {
     "Kasbi": "o'qituvchi"
 }
 print(type(shaxs))
-Oʏʙᴇᴋ Nᴀʀᴢᴜʟʟᴀʏᴇᴠ, [08.07.21 10:09]
+
 """ Dict (lug'at) """
 
 # to'g'ridan to'g'ri e'lon qilish
