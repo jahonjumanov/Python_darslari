@@ -1,8 +1,10 @@
 try:
     n=int(input("Son kiriting:"))
-    if n<0:
+    if n%2==0:
         raise Exception()
 except:
-    print("xato")
+    print("xato chunki jaft son")
 else:
-    print("xato yo'q")
+    print("yaxshi siz toq son kiritingiz")
+finally:
+    print("dastur yakunlandi")
