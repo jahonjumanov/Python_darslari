@@ -46,10 +46,10 @@ print(son)'''
 son=[5,6,3,9]
 son.pop(2)
 print(son)'''
-"""# remove -> beilgan elementni nomi bo'yicha o'chirish
+# remove -> beilgan elementni nomi bo'yicha o'chirish
 mashina=["BMW", "Arlando","Xunday","Mers"]
 mashina.remove("BMW")
-print(mashina"""
+print(mashina)
 
 print(mashina)
 
