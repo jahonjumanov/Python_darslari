@@ -17,3 +17,4 @@ if login and passw:
     print("tizimdan o'tdingiz!")
 else:
     print("login yoki parol xato!")
+    ()
